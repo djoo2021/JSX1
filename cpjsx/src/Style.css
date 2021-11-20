@@ -1,0 +1,17 @@
+
+.title-red{
+
+    color:red;
+}
+
+img{
+
+    height: 200px;
+    width: 200px;
+}
+
+.logo{
+
+    border:solid 3px black;
+    max-width:100vw;
+}
